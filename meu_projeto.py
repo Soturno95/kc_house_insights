@@ -305,3 +305,5 @@ st.dataframe(dfs30.style.format(subset=[ 'price','sell_price30%'], formatter="{:
 #================================================================================================================
 
 # teste servidor
+
+# teste pull vscode caixa
