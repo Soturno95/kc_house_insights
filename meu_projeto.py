@@ -304,8 +304,3 @@ st.dataframe(dfs30.style.format(subset=[ 'price','sell_price30%'], formatter="{:
 # c2.dataframe(dfs30,height=400,width=400)
 #================================================================================================================
 
-
-# teste para o git
-
-# teste2 para o git
-# teste3
