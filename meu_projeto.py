@@ -26,8 +26,8 @@ def get_geofile( url ):
     return geofile
 
 # get data
-path = 'C:\\Users\\SERVIDOR\\Desktop\\x\\mega\\1_zero_ao_ds\\módulo_8\\kc_house_data.csv'
-# path = 'C:\\Users\\caixa\\Desktop\\kc_house_data.csv'
+# path = 'C:\\Users\\SERVIDOR\\Desktop\\x\\mega\\1_zero_ao_ds\\módulo_8\\kc_house_data.csv'
+path = 'C:\\Users\\caixa\\Desktop\\kc_house_data.csv'
 data = get_data( path )
 
 # get geofile
@@ -306,3 +306,5 @@ st.dataframe(dfs30.style.format(subset=[ 'price','sell_price30%'], formatter="{:
 
 
 # teste para o git
+
+# teste2 para o git
