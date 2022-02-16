@@ -303,7 +303,3 @@ st.dataframe(dfs30.style.format(subset=[ 'price','sell_price30%'], formatter="{:
 # c2.header('30% de lucro')
 # c2.dataframe(dfs30,height=400,width=400)
 #================================================================================================================
-
-# teste vscode caixa
-# teste pull vscodecaixa
-# teste 2
